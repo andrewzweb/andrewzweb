@@ -1,7 +1,7 @@
 # Hi, I’m Andrew 
 
 ## How to reach me ...
-[<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linlkedin]
+[<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 [<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />](mailto:andrewzweb@gmail.com)
 
 ### Laguages and framework
